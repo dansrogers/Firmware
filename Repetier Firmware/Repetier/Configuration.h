@@ -295,9 +295,9 @@ Hacker H2        = 6
 
 #elif PRINTER == 2 // Rostock MAX v2
 #if NUM_EXTRUDER == 1
-#define MOTOR_CURRENT {140,140,140,130,0}
+#define MOTOR_CURRENT {160,160,160,140,0}
 #elif NUM_EXTRUDER == 2
-#define MOTOR_CURRENT {140,140,140,130,130}
+#define MOTOR_CURRENT {160,160,160,140,140}
 #endif
 #define HAVE_HEATED_BED 1
 #define INVERT_X_DIR 1
