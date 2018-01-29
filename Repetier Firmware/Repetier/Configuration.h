@@ -12,7 +12,7 @@ Hacker H2        = 6
 // SeeMeCNC Bowden w/PEEK barrel = 1
 // HE240 on ERIS w/accel probe   = 2
 // HE280 w/accel probe           = 3
-#define HOTEND 1
+#define HOTEND 3
 
 // ### Define your motherboard here! ###
 // 301 = RAMBo    302 = MINI RAMBo
